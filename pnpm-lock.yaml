@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '':
-        specifier: link:/
-        version: link:../../../../../..
       '@mendable/firecrawl-js':
         specifier: ^4.3.1
         version: 4.9.3
